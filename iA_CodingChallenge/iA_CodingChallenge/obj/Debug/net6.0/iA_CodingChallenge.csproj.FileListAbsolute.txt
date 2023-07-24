@@ -1,0 +1,15 @@
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\bin\Debug\net6.0\iA_CodingChallenge.exe
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\bin\Debug\net6.0\iA_CodingChallenge.deps.json
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\bin\Debug\net6.0\iA_CodingChallenge.runtimeconfig.json
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\bin\Debug\net6.0\iA_CodingChallenge.dll
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\bin\Debug\net6.0\iA_CodingChallenge.pdb
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\iA_CodingChallenge.csproj.AssemblyReference.cache
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\iA_CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\iA_CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\iA_CodingChallenge.AssemblyInfo.cs
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\iA_CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\iA_CodingChallenge.dll
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\refint\iA_CodingChallenge.dll
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\iA_CodingChallenge.pdb
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\iA_CodingChallenge.genruntimeconfig.cache
+C:\Users\SleepyKitty\source\repos\iA_CodingChallenge\iA_CodingChallenge\obj\Debug\net6.0\ref\iA_CodingChallenge.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "iA_CodingChallenge/1.0.0": {
+        "runtime": {
+          "iA_CodingChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iA_CodingChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
